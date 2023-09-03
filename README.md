@@ -1,1 +1,2 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/0b-Ycjwo)
+![sistema-num-eri_62039976 mitad superior](https://github.com/SistemasTecTlaxiaco/infografia-NBbrook/assets/143771363/b3f01d99-7c57-4d84-8efc-9755e46b887a)
+![sistema-num-eri_62039976 mitad inferior](https://github.com/SistemasTecTlaxiaco/infografia-NBbrook/assets/143771363/f6d6a6fb-3a4f-4c34-927f-730835fe540c)
